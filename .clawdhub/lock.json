@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "conventional-commits": {
+      "version": "1.0.1",
+      "installedAt": 1769800229782
+    },
+    "deepwork-tracker": {
+      "version": "0.1.1",
+      "installedAt": 1769800269528
+    },
+    "gitload": {
+      "version": "1.0.0",
+      "installedAt": 1769800309292
+    },
+    "agentlens": {
+      "version": "1.0.0",
+      "installedAt": 1769800423423
+    },
+    "github-pr": {
+      "version": "1.0.0",
+      "installedAt": 1769800458065
+    },
+    "calendly": {
+      "version": "1.0.0",
+      "installedAt": 1769800584241
+    },
+    "better-notion": {
+      "version": "1.1.0",
+      "installedAt": 1769800673542
+    },
+    "gcal-pro": {
+      "version": "1.0.0",
+      "installedAt": 1769801036142
+    },
+    "outlook": {
+      "version": "1.3.0",
+      "installedAt": 1769801061994
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1769801085355
+    },
+    "github-kb": {
+      "version": "1.0.1",
+      "installedAt": 1769801109945
+    },
+    "gno": {
+      "version": "0.14.3",
+      "installedAt": 1769801155934
+    },
+    "kubernetes": {
+      "version": "1.0.0",
+      "installedAt": 1769801310762
+    },
+    "moltbot-docker": {
+      "version": "1.0.0",
+      "installedAt": 1769801363608
+    },
+    "docker-compose-gen": {
+      "version": "1.0.1",
+      "installedAt": 1769801516514
+    },
+    "portainer": {
+      "version": "1.0.0",
+      "installedAt": 1769801550725
+    },
+    "vercel": {
+      "version": "1.0.1",
+      "installedAt": 1769801567249
+    },
+    "google-workspace-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1769801914794
+    }
+  }
+}

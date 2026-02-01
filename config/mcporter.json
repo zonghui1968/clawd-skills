@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "podcastfy": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@clawdbot/podcastfy"
+      ]
+    }
+  },
+  "imports": []
+}
