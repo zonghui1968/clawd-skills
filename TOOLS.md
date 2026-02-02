@@ -34,3 +34,12 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Claude Code Usage Rules
+
+⚠️ **重要规则：** 每当调用 claude-code-clawdbot 技能后，若产生新的使用技巧和经验，必须：
+
+1. 更新到 `CLAUDE-CODE-NOTES.md` 文件
+2. 提交更改并 push 到 GitHub 仓库
+
+这确保了使用经验的持续积累和同步。
